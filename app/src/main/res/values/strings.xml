@@ -9,4 +9,10 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="category">categorie</string>
+    <string name="uri">url</string>
+    <string name="desc">description</string>
+    <string name="title">titre</string>
+    <string name="h1">Ajouter une vidéo</string>
+    <string name="btn_msg">ajouter</string>
 </resources>
